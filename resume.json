@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Jukka-Pekka Salo",
+    "label": "Frontend developer",
+    "picture": "",
+    "email": "jpsalo@zoho.com",
+    "phone": "+358 50 0508133",
+    "summary": "I have been a programmer since 2010 and I am specialized in frontend development. I have a solid hands-on experience in product development for the web, backed by CS and cognitive science studies and I strive for elegant and future-proof solutions which are both efficient and intuitive to use.\n\nWork in large and small companies and in projects of different scale and age - past year as a project lead - has provided me insight into team dynamics and business reasoning behind the coding. I enjoy being part of the early-stage prototyping with pen and paper but most satisfaction I get when I finish building e.g. a complex mobile-first UI without a glitch.",
+    "location": {
+      "address": "Lukijankuja 2 B 12",
+      "postalCode": "00730",
+      "city": "Helsinki",
+      "countryCode": "FI"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "jpsalo",
+        "url": "https://github.com/jpsalo"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "salojp",
+        "url": "https://www.linkedin.com/in/salojp/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Digia",
+      "position": "Frontend Developer, Project Lead",
+      "website": "https://www.digia.com/",
+      "startDate": "2017-05-01",
+      "summary": "Digia is a software and service provider in the development of digital business operations and day-to-day processes to data analytics, digital services and e-commerce solutions.",
+      "highlights": [
+	"Scrum master and a project lead for a customer project",
+        "Designed security and privacy processes for a customer",
+        "Frontend developer for web and mobile"
+      ]
+    },
+    {
+      "company": "Nord Software",
+      "position": "Frontend Developer",
+      "website": "https://www.nordsoftware.com/",
+      "startDate": "2017-01-02",
+      "endDate": "2017-04-30",
+      "summary": "Nord Software was a software development company producing technologically superior web services.",
+      "highlights": [
+        "Frontend developer for web and mobile"
+      ]
+    },
+    {
+      "company": "Filosofian Akatemia",
+      "position": "Programmer, Technical Support",
+      "website": "https://filosofianakatemia.fi/",
+      "startDate": "2015-08-01",
+      "endDate": "2015-12-31",
+      "summary": "Filosofian Akatemia is a research, training and consulting company helping Finnish companies remain competetitive in the future.",
+      "highlights": [
+	"Word processing and office tools management",
+	"Automated scripts used in questionnaires",
+	"Web design"
+      ]
+    },
+    {
+      "company": "Extended Mind Technologies",
+      "position": "Frontend Developer",
+      "website": "https://ext.md",
+      "startDate": "2013-06-01",
+      "endDate": "2015-06-30",
+      "summary": "Extended Mind is a minimal task and note organizer.",
+      "highlights": [
+        "Frontend developer for web and mobile",
+        "User experience evaluation, testing and user interface design and implementation"
+      ]
+    },
+    {
+      "company": "Sito Group",
+      "position": "Software Developer",
+      "website": "https://www.sito.fi/",
+      "startDate": "2011-11-02",
+      "endDate": "2013-05-31",
+      "summary": "Sito is a company in infrastructure, traffic solutions, logistics, land use, environment and digital services.",
+      "highlights": [
+        "I was part of a team developing a CAD software where I had a strong focus on the user experience."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Helsinki",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-01",
+      "endDate": "2013-05-31",
+      "courses": [
+        "Programming: Java, Algorithms",
+        "Mathematics and Statistics (minor)",
+        "Cognitive Science (minor)"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "React / React Native",
+        "Redux",
+        "Flow",
+        "Angular 1",
+        "Sass / Less",
+        "Javascript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Competent",
+      "keywords": [
+        "Cordova",
+        "Android Java"
+      ]
+    },
+    {
+      "name": "Others",
+      "level": "Competent",
+      "keywords": [
+        "Python",
+        "Qt (with C++)"
+      ]
+    }
+  ]
+}
